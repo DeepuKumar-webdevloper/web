@@ -1,0 +1,13 @@
+{
+    "elements": {
+        "h3class=\"latest-product\"": {},
+        "ul": {
+            "attributes": {
+                "id": {},
+                "class": {}
+            }
+        },
+        "li": {}
+    },
+    "attributes": {}
+}
